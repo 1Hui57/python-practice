@@ -34,3 +34,4 @@ def calculate(n1,n2):
     print (result)
     
 calculate(5,8)
+print(calculate(5,6)) #calculate函式沒有回傳值，因此印出none
